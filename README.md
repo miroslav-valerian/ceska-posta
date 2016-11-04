@@ -19,7 +19,7 @@ Getting Started
 ===============
 
 ```php
-$package = new Valerian\CeskaPosta\Tracking('package number');
+$package = new Valerian\CeskaPosta\CeskaPosta('package number');
 
 
 
